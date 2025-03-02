@@ -27,7 +27,7 @@ This repository contains the **design, layout, and simulation results** of an **
 
 Below is the **final SAR ADC layout**, showcasing the **SAR logic, DAC, and Comparator**.
 
-![SAR ADC Layout](ADClayout.jpg)
+![SAR ADC Layout](ADCDesign/ADClayout.jpg)
 
 - **Total Area:** **1681 µm²** (55 × 34 µm²)
 - **Total Instances:** **1338**
