@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("ADC" "4bit_fullschematic" "schematic" "spectre")
+descriptionText = "None"

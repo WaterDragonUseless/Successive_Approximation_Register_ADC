@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yt210
+HostName                       vlsi-cmp-00.egr.duke.edu
+ProcessIdentifier              24538
+ProcessCreationTime_UTC        1714745892
+ProcessCreationTime_Readable   Fri May  3 10:18:12 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/yt210/workspace/ADC/Final_sim/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri May  3 10:31:21 2024 EDT

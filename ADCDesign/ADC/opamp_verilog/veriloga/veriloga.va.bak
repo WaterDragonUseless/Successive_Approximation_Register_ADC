@@ -1,0 +1,9 @@
+// VerilogA for ADC, opamp_verilog, veriloga
+
+`include "constants.vams"
+`include "disciplines.vams"
+
+module opamp_verilog;
+
+
+endmodule

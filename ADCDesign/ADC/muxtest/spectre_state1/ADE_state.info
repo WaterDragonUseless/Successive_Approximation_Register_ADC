@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("ADC" "muxtest" "schematic" "spectre")
+descriptionText = "None"
