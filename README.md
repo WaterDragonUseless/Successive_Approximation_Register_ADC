@@ -1,4 +1,4 @@
-# SAR ADC with Centroid Layout | Mixed-Signal, VLSI, Layout
+# SAR ADC with Centroid Layout | Mixed-Signal, VLSI， Analog design
 
 This repository contains the **design, layout, and simulation results** of an **8-bit Successive Approximation Register (SAR) ADC**, implemented with **full post-layout parasitic extraction (PEX)** and achieving a **verified 10 MHz sampling rate** with a **30 dB signal-to-noise ratio (SNR)**.
 
